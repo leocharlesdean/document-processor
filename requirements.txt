@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+asyncpg
+pydantic_settings
+pydantic
+PyPDF2
+transformers
+torch
+sentence-transformers
+spacy
+python-multipart
+jinja2
+aiofiles
+python-dotenv
